@@ -22,7 +22,7 @@ AWS Region: US East (N. Virginia) us-east-1.
 
 <h1 align="center">📝 Architecture Diagram </h1>
 <p align="center">
-  <img src="screenshots/architecture_diagram.png" alt="Project Logo" width="500"/>
+  <img src="screenshots/architecture_diagram.png" alt="Project Logo" width="1000"/>
 </p>
 
 ---
@@ -41,7 +41,6 @@ AWS Region: US East (N. Virginia) us-east-1.
 
 6. Configure Python Script to Run LangChain-Powered Q&A in Jupyter Notebook as,
 
-<h1 align="center">📝 Architecture Diagram </h1>
 <p align="center">
   <img src="screenshots/run_langChain_powered_Q&A.png" alt="Project Logo" width="500"/>
 </p>
